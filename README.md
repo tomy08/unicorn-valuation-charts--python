@@ -37,4 +37,4 @@ If you choose 'company' as the field, the script will generate a bar chart showi
 
 ### Data Source
 
-The data used for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies?select=Unicorn_Companies.csv).
+The data used for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies?select=Unicorn_Companies.csv). Please note that while efforts have been made to ensure data accuracy, it's essential to acknowledge that datasets from external sources can be erroneous or outdated. Users are advised to verify the data's accuracy and relevancy for their specific use case.
