@@ -9,6 +9,7 @@ To use this project, you'll need to follow this instructions:
 ```bash
 git clone https://github.com/tomy08/unicorn-valuation-charts--python.git
 cd unicorn-valuation-charts--python
+python3 -m venv env
 source ./env/Scripts/activate
 pip install -r requirements.txt
 python unicorn_valuation.py
