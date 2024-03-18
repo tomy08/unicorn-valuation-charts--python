@@ -4,12 +4,14 @@ This project is a Python script designed to generate valuation graphs for unicor
 
 ### Installation
 
-To use this project, you'll need to have Python installed on your system. Additionally, ensure you have the necessary dependencies installed, including `matplotlib` for plotting.
-
-You can install `matplotlib` using pip:
+To use this project, you'll need to follow this instructions:
 
 ```bash
-pip install matplotlib
+git clone https://github.com/tomy08/unicorn-valuation-charts--python.git
+cd unicorn-valuation-charts--python
+source ./env/Scripts/activate
+pip install -r requirements.txt
+python unicorn_valuation.py
 ```
 
 ### Usage
